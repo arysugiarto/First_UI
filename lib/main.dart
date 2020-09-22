@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       child: Text(
         'Stawberry ',
         textAlign: TextAlign.center,
- f       style: TextStyle(
+       style: TextStyle(
           fontWeight: FontWeight.bold,
           fontSize: 18,
         ),
